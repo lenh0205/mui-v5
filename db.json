@@ -1,0 +1,32 @@
+{
+  "customer": [
+    {
+      "name": "Jon Doe",
+      "details": "He is from America",
+      "gender": "male",
+      "rating": 5,
+      "id": 11
+    },
+    {
+      "name": "Alice white",
+      "details": "He is from Australia",
+      "gender": "female",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "name": "meo con",
+      "details": "he is a dog",
+      "gender": "others",
+      "rating": 2,
+      "id": 12
+    },
+    {
+      "name": "con cho",
+      "details": "mau vang rat dep",
+      "gender": "male",
+      "rating": 4,
+      "id": 13
+    }
+  ]
+}
